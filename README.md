@@ -1,1 +1,1 @@
-# Blackhole wallet dapp
+# Blackhole wallet Dapp
